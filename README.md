@@ -16,11 +16,11 @@ Dentre os possíveis clientes do projeto Smart Plant podemos citar empresas como
 
 Integrantes do grupo desenvolvedor do projeto:
 
-Beatriz Helena Pedro 
-Filipe Carvalho 
-Francisca Angelianne Sa Rabelo 
-Isaque De Carvalho Do Prado 
-Maria Eduarda Freire Borges 
+# Beatriz Helena Pedro 
+# Filipe Carvalho 
+# Francisca Angelianne Sa Rabelo 
+# Isaque De Carvalho Do Prado 
+# Maria Eduarda Freire Borges 
 
 Centro Universitário UniMetrocamp Wyden - Junho de 2024
 Campinas - SP
